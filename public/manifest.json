@@ -1,0 +1,16 @@
+{
+  "short_name": "Instagram 2.0",
+  "name": "Instagram 2.0",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#262626",
+  "background_color": "#262626"
+}
